@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReversePolishNotation</string>
+    <string name="question_title">Please select the right value of this Reverse Polish Notation:</string>
+    <string name="answer_wrong">Sorry, your answer seems incorrect.\n\nFetching a new task…</string>
+    <string name="answer_right">Congratulations! You got the correct answer!!</string>
+</resources>
